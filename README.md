@@ -1,1 +1,1 @@
-![Languages](https://metrics.lecoq.io/yolo-projekat?template=classic&base=languages&base.languages.units=percent&base.languages.sections=most-used)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=yolo-projekat&layout=compact&theme=radical)
